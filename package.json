@@ -1,0 +1,14 @@
+{
+  "name": "rbx-bitbuffer",
+  "version": "0.0.1",
+  "description": "Stravant's BitBuffer module with type definitions.",
+  "main": "init.lua",
+  "types": "index.d.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "BinaryProvider",
+  "license": "MIT",
+  "dependencies": {
+    "rbx-types": "^1.0.181"
+  }
+}
