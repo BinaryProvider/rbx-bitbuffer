@@ -4,4 +4,4 @@ Stravant's BitBuffer module with type definitions, to be used with roblox-ts, fo
 
 ## Credits
 
-[Stravant's BitBuffer module](https://devforum.roblox.com/t/bitbuffer-module-for-binary-data-manipulation/8315).
+[Stravant's BitBuffer module](https://devforum.roblox.com/t/stravants-bitbuffer-module-compact-storage-of-data-tutorial/20189).
